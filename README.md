@@ -1,4 +1,4 @@
-# letsencrypt-zimbra
+# letsencrypt-zimbra WORKING 100%
 
 Files to automate the deploy of letsencrypt certificates to Zimbra.
 
